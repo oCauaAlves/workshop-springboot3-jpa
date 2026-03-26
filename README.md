@@ -1,6 +1,7 @@
 # 🚀 Workshop Spring Boot 3 + JPA
 <p align="center">
   <img src="https://img.shields.io/badge/Java-17+-blue" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-3-green" />
   <img src="https://img.shields.io/badge/OOP-Object%20Oriented-green" />
   <img src="https://img.shields.io/badge/Status-Concluído-success" />
 </p>
